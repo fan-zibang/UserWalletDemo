@@ -1,0 +1,12 @@
+com/fanzibang/wallet/domain/User.class
+com/fanzibang/wallet/mapper/AccountDetailsMapper.class
+com/fanzibang/wallet/controller/AccountDetailsController.class
+com/fanzibang/wallet/mapper/UserMapper.class
+com/fanzibang/wallet/controller/UserController.class
+com/fanzibang/wallet/domain/AccountDetails.class
+com/fanzibang/wallet/common/CommonResult.class
+com/fanzibang/wallet/utils/UserHolder.class
+com/fanzibang/wallet/service/impl/UserServiceImpl.class
+com/fanzibang/wallet/common/ReturnCode.class
+com/fanzibang/wallet/UserWalletDemoApplication.class
+com/fanzibang/wallet/service/UserService.class
